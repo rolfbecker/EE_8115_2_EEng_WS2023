@@ -1,0 +1,8 @@
+* C:\Users\rb\Documents\HSRW\Teaching\EE_EEng\REPO\EE_1.08_2_EEng_WS2022\eeng0100_Kirchhoff\Voltage_Divider_V001.asc
+R1 N002 0 {R+1u}
+R2 N001 N002 {1k-R+1u}
+V1 N001 0 5V
+.step param R 0 1000 100
+.op
+.backanno
+.end

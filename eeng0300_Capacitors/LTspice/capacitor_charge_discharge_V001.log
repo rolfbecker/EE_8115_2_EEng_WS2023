@@ -1,0 +1,21 @@
+Circuit: * C:\Users\rb\Documents\HSRW\Teaching\EE_EEng\REPO\EE_1.08_2_EEng_WS2022\eeng0300_Capacitors\LTspice\capacitor_charge_discharge_V001.asc
+
+.OP point found by inspection.
+
+Date: Thu Nov 03 07:03:49 2022
+Total elapsed time: 0.081 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2848
+traniter = 2848
+tranpoints = 1425
+accept = 1369
+rejected = 56
+matrix size = 3
+fillins = 0
+solver = Normal
+Matrix Compiler1: 50 bytes object code size  0.0/0.0/[0.0]
+Matrix Compiler2: 175 bytes object code size  0.0/0.0/[0.0]
+

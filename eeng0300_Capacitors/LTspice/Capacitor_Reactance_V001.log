@@ -1,0 +1,24 @@
+Circuit: * C:\Users\rb\Documents\HSRW\Teaching\EE_EEng\REPO\EE_1.08_2_EEng_WS2022\eeng0300_Capacitors\LTspice\Capacitor_Reactance_V001.asc
+
+.OP point found by inspection.
+
+a: 6.28318530717959e-006=6.28319e-006
+
+
+Date: Thu Nov 17 05:21:51 2022
+Total elapsed time: 0.068 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 882
+traniter = 882
+tranpoints = 442
+accept = 293
+rejected = 149
+matrix size = 2
+fillins = 0
+solver = Normal
+Matrix Compiler1: 36 bytes object code size  0.0/0.0/[0.0]
+Matrix Compiler2: 96 bytes object code size  0.0/0.0/[0.0]
+

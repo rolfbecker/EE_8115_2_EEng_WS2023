@@ -1,0 +1,25 @@
+Circuit: * C:\Users\rb\Documents\HSRW\Teaching\EE_EEng\REPO\EE_1.08_2_EEng_WS2022\eeng0700_Photovoltaics\PV_Spice_Modelling_WORK\PVmodule.asc
+
+.step e=200
+.step e=400
+.step e=600
+.step e=800
+.step e=1000
+
+Date: Mon Oct 03 16:27:57 2022
+Total elapsed time: 0.436 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 404
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 7
+fillins = 0
+solver = Normal
+Matrix Compiler1: 250 bytes object code size  0.1/0.1/[0.0]
+Matrix Compiler2: off  [0.0]/0.0/0.1
+
