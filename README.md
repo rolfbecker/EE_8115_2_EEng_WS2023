@@ -1,6 +1,6 @@
 # Welcome to the course HSRW EE_8115_2: <br>Electrical Engineering (Part 2 of Physics 1)!
 
-This git repository provides the **open educational resources (OER)** used in the 1st semester course of the [**Environment & Energy**](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/degree-programmes/bachelor-degree-programmes/environment-and) at the [**Hochschule Rhein-Waal (HSRW)**](https://www.hsrw.eu/). The course Electrical Engineering is the second part of the module Physics 1, taught by Profs. Irmgard Buder and Rolf Becker in WS2023/24 for the second time in this form. 
+This git repository provides the **open educational resources (OER)** used in the 1st semester course of the [**Environment & Energy**](https://www.hochschule-rhein-waal.de/en/faculties/communication-and-environment/degree-programmes/bachelor-degree-programmes/environment-and) at the [**Hochschule Rhein-Waal (HSRW)**](https://www.hsrw.eu/). The course Electrical Engineering is the second part of the module Physics 1, taught by Profs. Irmgard Buder and Rolf Becker in WS2024/25 for the second time in this form. 
 
 
 ## Motivation
