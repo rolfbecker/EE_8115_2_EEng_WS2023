@@ -1,0 +1,23 @@
+Circuit: * C:\Users\rb\Documents\HSRW\REPO\INCLASS_WS2024\EE_8115_2_EEng_WS2023\eeng0300_Capacitors\LTspice\Ex_C_series_C_parallel_V001.asc
+
+WARNING: Node N001 is floating.
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Nov 10 17:38:40 2024
+Total elapsed time: 0.041 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2121
+traniter = 2118
+tranpoints = 1060
+accept = 1060
+rejected = 0
+matrix size = 5
+fillins = 0
+solver = Normal
+Matrix Compiler1: 114 bytes object code size  0.0/0.0/[0.0]
+Matrix Compiler2: off  [0.0]/0.1/0.1
+

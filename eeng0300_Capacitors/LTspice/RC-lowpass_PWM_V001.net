@@ -1,0 +1,12 @@
+* C:\Users\rb\Documents\HSRW\REPO\INCLASS_WS2024\EE_8115_2_EEng_WS2023\eeng0300_Capacitors\LTspice\RC-lowpass_PWM_V001.asc
+C1 V_C1 0 1µF
+R1 N001 V_C1 10k
+V1 N001 0 PULSE(0V {Vs} 0 1e-9s 1e-9s {Ton} {T} 50)
+.tran 0 50ms 0ms .01ms
+.param T = 1ms
+.param Ton=duty_cycle*T
+.step param duty_cycle list 0.0 0.2 0.4 0.6 0.8 1.0
+.param Vs = 5V
+* Not used: .param Vs = duty_cycle*5V + 1V
+.backanno
+.end

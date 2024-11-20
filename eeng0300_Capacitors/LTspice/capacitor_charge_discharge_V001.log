@@ -1,9 +1,9 @@
-Circuit: * C:\Users\rb\Documents\HSRW\Teaching\EE_EEng\REPO\EE_1.08_2_EEng_WS2022\eeng0300_Capacitors\LTspice\capacitor_charge_discharge_V001.asc
+Circuit: * C:\Users\rb\Documents\HSRW\REPO\INCLASS_WS2024\EE_8115_2_EEng_WS2023\eeng0300_Capacitors\LTspice\capacitor_charge_discharge_V001.asc
 
 .OP point found by inspection.
 
-Date: Thu Nov 03 07:03:49 2022
-Total elapsed time: 0.081 seconds.
+Date: Tue Nov 05 21:25:15 2024
+Total elapsed time: 0.053 seconds.
 
 tnom = 27
 temp = 27
@@ -16,6 +16,6 @@ rejected = 56
 matrix size = 3
 fillins = 0
 solver = Normal
-Matrix Compiler1: 50 bytes object code size  0.0/0.0/[0.0]
+Matrix Compiler1: off  [0.0]/0.0/0.0
 Matrix Compiler2: 175 bytes object code size  0.0/0.0/[0.0]
 

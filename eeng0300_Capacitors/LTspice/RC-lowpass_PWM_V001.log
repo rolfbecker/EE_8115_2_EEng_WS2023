@@ -1,4 +1,4 @@
-Circuit: * C:\Users\rb\Documents\HSRW\REPO\EE_1.08_2_EEng_WS2022\eeng0300_Capacitors\LTspice\RC-lowpass_PWM_V001.asc
+Circuit: * C:\Users\rb\Documents\HSRW\REPO\INCLASS_WS2024\EE_8115_2_EEng_WS2023\eeng0300_Capacitors\LTspice\RC-lowpass_PWM_V001.asc
 
 .OP point found by inspection.
 .step duty_cycle=0
@@ -8,21 +8,20 @@ Circuit: * C:\Users\rb\Documents\HSRW\REPO\EE_1.08_2_EEng_WS2022\eeng0300_Capaci
 .step duty_cycle=0.8
 .step duty_cycle=1
 
-Date: Thu Nov  2 19:47:59 2023
-Total elapsed time: 1.174 seconds.
+Date: Wed Nov 06 13:40:36 2024
+Total elapsed time: 0.483 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 20914
-traniter = 20914
-tranpoints = 10458
-accept = 9559
-rejected = 899
+totiter = 20860
+traniter = 20860
+tranpoints = 10431
+accept = 9523
+rejected = 908
 matrix size = 3
 fillins = 0
 solver = Normal
-Avg thread counts: 1.2/1.4/1.4/1.2
-Matrix Compiler1:       3 opcodes  0.2/0.2/[0.1]
-Matrix Compiler2: off  [0.1]/0.2/0.1
+Matrix Compiler1:       3 opcodes  0.0/[0.0]/0.0
+Matrix Compiler2: off  [0.0]/0.0/0.0
 
