@@ -1,6 +1,6 @@
 LTspice 24.0.12 for Windows
 Circuit: * C:\Users\rb\Documents\HSRW\REPO\INCLASS_WS2024\EE_8115_2_EEng_WS2024\eeng0700_Photovoltaics\LTspice_PV-Modeling\PVmodule_03Cells_Ext_Rext.asc
-Start Time: Thu Nov 21 13:28:55 2024
+Start Time: Thu Nov 21 14:55:23 2024
 solver = Normal
 Maximum thread count: 12
 
@@ -88,5 +88,5 @@ tnom = 27
 temp = 27
 method = modified trap
 .step rext=10000
-Total elapsed time: 0.570 seconds.
+Total elapsed time: 0.768 seconds.
 
