@@ -1,0 +1,92 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\rb\Documents\HSRW\REPO\INCLASS_WS2024\EE_8115_2_EEng_WS2024\eeng0700_Photovoltaics\LTspice_PV-Modeling\PVmodule_03Cells_Ext_Rext.asc
+Start Time: Thu Nov 21 13:28:55 2024
+solver = Normal
+Maximum thread count: 12
+
+
+
+Direct Newton iteration for .op point succeeded.
+.step rext=1
+
+
+
+.step rext=1.58489319246111
+
+
+
+.step rext=2.51188643150958
+
+
+
+.step rext=3.98107170553497
+
+
+
+.step rext=6.30957344480193
+
+
+
+.step rext=10
+
+
+
+.step rext=15.8489319246111
+
+
+
+.step rext=25.1188643150958
+
+
+
+.step rext=39.8107170553497
+
+
+
+.step rext=63.0957344480194
+
+
+
+.step rext=100
+
+
+
+.step rext=158.489319246111
+
+
+
+.step rext=251.188643150958
+
+
+
+.step rext=398.107170553498
+
+
+
+.step rext=630.957344480194
+
+
+
+.step rext=1000
+
+
+
+.step rext=1584.89319246112
+
+
+
+.step rext=2511.88643150958
+
+
+
+.step rext=3981.07170553498
+
+
+
+.step rext=6309.57344480194
+tnom = 27
+temp = 27
+method = modified trap
+.step rext=10000
+Total elapsed time: 0.570 seconds.
+

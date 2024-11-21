@@ -1,0 +1,32 @@
+* C:\Users\rb\Documents\HSRW\REPO\INCLASS_WS2024\EE_8115_2_EEng_WS2024\eeng0700_Photovoltaics\LTspice_PV-Modeling\PVmodule_03Cells_Ext_Rext.asc
+XPV1 0 p1 pvcellext params: E={E0}
+XPV2 p1 p2 pvcellext params: E={E}
+XPV3 p2 N001 pvcellext params: E={E}
+D1 0 p1 D
+R1 N001 0 {Rext}
+
+* block symbol definitions
+.subckt pvcellext V0 Vout
+D1 VD V0 Dmodel1
+Iph V0 VD {c0*E}
+D2 VD V0 Dmodel2
+Rp VD V0 94.1Ohms
+Rs Vout VD 12.94mOhms
+B1 VD V0 I=2.33m*(V(VD)-V(V0))*(1-(V(VD)-V(V0))/(-18))**(-1.9)
+.model Dmodel1 D(Is=1.913nA, n=1)
+.model Dmodel2 D(Is=8.25uA, n=2)
+.param c0=3.09e-3
+.param E 1000
+.model Dmodel3 D(BV = 18V, Nr = 1.9)
+.ends pvcellext
+
+.model D D
+.lib C:\Users\rb\AppData\Local\LTspice\lib\cmp\standard.dio
+.param E0 1000
+* Model of a PV Module of Three PV Cells \n(Kyocera LA441J59, Subcircuit PVcell.asc, PVcell.asy)\nValues from V. Quaschning: Understanding Renewable Energy Systems (2005), p. 132-135
+* (R. Becker, 2014-10-27)
+.param E 1000
+.step dec param Rext 1 10000 5
+.tran 1
+.backanno
+.end
