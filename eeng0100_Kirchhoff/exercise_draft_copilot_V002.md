@@ -1,4 +1,4 @@
-# Attempt to create an exercise with MS Copilot
+# First attempt to create an exercise about Kirchhoff with MS Copilot
 
 **My prompt:**
 
