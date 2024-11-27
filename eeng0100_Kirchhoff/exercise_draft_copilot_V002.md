@@ -6,8 +6,8 @@ Got it! To properly render the voltage and other variables as LaTeX in Markdown,
 
 ### Given:
 - A circuit with three loops (loops A, B, and C).
-- Three voltage sources: \(V_1\), \(V_2\), and \(V_3\).
-- Four resistors: \(R_1\), \(R_2\), \(R_3\), and \(R_4\).
+- Three voltage sources: $$V_1$$, $$V_2$$, and $$V_3$$.
+- Four resistors: $$R_1$$, $$R_2$$, $$R_3$$, and $$R_4$$.
 
 ### Circuit Diagram:
 ```
