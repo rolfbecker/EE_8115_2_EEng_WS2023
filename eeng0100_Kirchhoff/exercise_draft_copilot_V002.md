@@ -1,7 +1,3 @@
-Got it! To properly render the voltage and other variables as LaTeX in Markdown, we need to use double dollar signs for inline math. Here's the corrected Markdown version:
-
----
-
 ## Exercise: Kirchhoff's Laws in a Circuit
 
 ### Given:
