@@ -6,6 +6,8 @@
 Please help to create an exercise on Kirchhoffs laws. Please create three loops with three voltage sources.
 ```
 
+**Result (a few more itenrations on outfut formatting):**
+
 ## Exercise: Kirchhoff's Laws in a Circuit
 
 ### Given:
