@@ -1,3 +1,11 @@
+# Attempt to create an exercise with MS Copilot
+
+**My prompt:**
+
+```
+Please help to create an exercise on Kirchhoffs laws. Please create three loops with three voltage sources.
+```
+
 ## Exercise: Kirchhoff's Laws in a Circuit
 
 ### Given:
