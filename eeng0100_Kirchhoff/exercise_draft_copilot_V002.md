@@ -6,7 +6,9 @@
 Please help to create an exercise on Kirchhoffs laws. Please create three loops with three voltage sources.
 ```
 
-**Result (a few more itenrations on outfut formatting):**
+**Copilot Output (after a few more itenrations on output format):**
+
+(The circuit diagram is wrong).
 
 ## Exercise: Kirchhoff's Laws in a Circuit
 
